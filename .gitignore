@@ -1,3 +1,5 @@
 build/
 fmodstudioapi20201linux/
 mp3/
+
+.vscode/
