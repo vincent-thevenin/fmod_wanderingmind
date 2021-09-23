@@ -3,3 +3,7 @@ fmodstudioapi20201linux/
 mp3/
 
 .vscode/
+
+data_fmod.csv
+ocean_samples_fmod.json
+vendors/socket.io-client-cpp/
